@@ -1,0 +1,28 @@
+Beauty Product Review Analyzer
+Create a program that processes a collection of beauty product reviews and generates insights. Here's what it should do:
+
+Data Structure: Store product reviews as a list of dictionaries. Each review should have: product name, 
+brand, rating (1-5), review text, and reviewer age group.
+Core Functions:
+
+Add new reviews
+Calculate average rating per product
+Find the most/least popular products
+Count how many times specific words appear across all reviews (like "moisturizing", 
+"lightweight", "greasy")
+Filter reviews by rating or age group
+
+
+Challenge Features (if you want to stretch):
+
+Identify the most positive/negative words used
+Group products by brand and compare average ratings
+Find products mentioned together in reviews
+
+
+
+Start with maybe 10-15 sample reviews you create yourself. This will test your 
+skills with dictionaries, lists, loops, functions, string manipulation, and basic
+data analysis - all core Python concepts you'll need for data science.
+The beauty domain connection also gives you a preview of the kind of text analysis
+you'd do in real fashion/beauty ML projects.
